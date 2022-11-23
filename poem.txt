@@ -1,0 +1,10 @@
+The life of a programmer 
+As a programmer, it is a must to persevere every day
+you move through countless of files to keep issues at bay
+you organize your code to make it more beautiful 
+but in the process you can suddenly introduce bugs so be careful  
+
+You get into countless of sleepless nights, trying to work and improve
+but in the end, the effort is fruitful as you wake up the next day to your code being approved
+but your job doesnt end here, no, this is only the start of your journey
+because you'll be here for the rest of your life, updating your code, breaking it, and fixing it countless of times in agony.
